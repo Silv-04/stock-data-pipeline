@@ -106,3 +106,6 @@ Power BI est connecté à Athena via ODBC :
 5. Exécuter le crawler **jl-stock-crawler** pour mettre à jour la table **stock_risk**
 6. Ouvrir Power BI et se connecter à la table **stock_risk**
 7. Visualiser l’évolution des ventes et du risque
+
+### 9. Analyse des coûts
+![alt text](cost.png)
